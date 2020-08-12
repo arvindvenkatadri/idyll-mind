@@ -25,4 +25,5 @@ I finally managed to get `RStudio + Github + Academic + Netlify` working! And th
 
 Hopefully this first post will mark a beginning wherein I become not just more savvy with tools, but more considerate and nuanced with concepts and explanations. I want to teach myself `idyll` and use it to create explanations for things that I am reading. That may help me with my own teaching practice and may also provide some food for thought to some kind soul passing by!
 
-(Onwards and Upwards)[http://anglicanhistory.org/usa/gwdoane/songs1860/051.html] !!
+[Onwards and Upwards!](http://anglicanhistory.org/usa/gwdoane/songs1860/051.html) !!
+
