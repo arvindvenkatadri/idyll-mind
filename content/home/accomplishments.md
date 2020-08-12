@@ -1,11 +1,15 @@
 +++
 # Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+widget = "accomplishments"  
+# See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  
+# This file represents a page section.
+active = true  
+# Activate this widget? true/false
+weight = 50  
+# Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishments"
 subtitle = ""
 
 # Date format
@@ -18,34 +22,39 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  
+  [[item]]
+  organization = "Srishti"
+  organization_url = "https://srishti.ac.in"
+  title = "Play and Invent"
+  url = "https://github.com/arvindvenkatadri/PlayAndInvent"
+  certificate_url = ""
+  date_start = "2014-12-01"
   date_end = ""
-  description = ""
+  description = """A hands on course on 
+  * Play
+  * Creative Problem Solving 
+  * Thinking Techniques, and
+  * Classical TRIZ.
+  """
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Srishti"
+  organization_url = "https://srishti.ac.in"
+  title = "Order and Chaos"
+  url = "https://github.com/arvindvenkatadri/OrderAndChaos"
+  certificate_url = ""
+  date_start = "2015-02-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = """Mathematical Models for Human Experiences. An introductory course on Complexity, Models, and Computation"""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Srishti"
+  organization_url = "https://srishti.ac.in"
+  title = "In Short, the World"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-
+  certificate_url = ""
+  date_start = "2015-10-10"
+  date_end = ""
+  description = """A Critical Reading and Appreciation of Short Stories from different World Literatures"""
 +++
