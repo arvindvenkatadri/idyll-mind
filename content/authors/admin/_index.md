@@ -23,7 +23,7 @@ bio: My teaching and research is on Mathematical Models for Human Experience and
 interests:
 - Complexity Science
 - TRIZ
-- Data Visualization
+- Data Visualization in R
 
 education:
   courses:
