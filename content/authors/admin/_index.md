@@ -24,6 +24,7 @@ interests:
 - Complexity Science
 - TRIZ
 - Data Visualization in R
+- Creative Reading and Writing
 
 education:
   courses:
